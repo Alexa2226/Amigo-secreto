@@ -20,7 +20,7 @@ Este es un proyecto desarrollado como parte del curso de Alura. La aplicación p
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Amigo-secreto.git
+   git clone https://github.com/Alexa2226/Amigo-secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
